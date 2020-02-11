@@ -7,7 +7,7 @@ Commands:
 - $level "nickname" - to check level of a user
 - $addPoints "nickname" *command free only for admin* - to add level to a user
 - $help - to gather information about bot (just to edit string with completed information)
-- $ranking - to check the ranking of players who has the biggest rank in the game *for now it's only doable through adding users as a raw method through the code. In the future there will be commands $add and $delete to manage the list those commands will be available only for admin usage.
+- $ranking - to check the ranking of players who has the biggest rank in the game *for now it's only doable through adding users as a raw method through the code. In the future there will be commands $add and $delete to manage the list those commands will be available only for admin usage.*
 - $select - to randomize what gamestyle of the league we should play
 
 So far this bot can do:
