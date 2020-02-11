@@ -1,0 +1,5 @@
+{
+    "TEST":"Hello World",
+    "WELCOME_&NAME_&BOTNAME": "Hello, {0}. My name is {1}! thanks for the invitation!\nUse $help(not live yet) to see what commands u can use.",
+    "HELP":  "help info to end with new ideas"
+}
