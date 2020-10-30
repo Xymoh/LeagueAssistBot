@@ -11,8 +11,8 @@ Commands:
 - $select - to randomize what gamestyle of the league we should play
 
 So far this bot can do:
-- connect to whatever server of discord
-- invoke the commands by first sign $
+- connect to any server of discord
+- invoke the commands by $
 - randomize a choice of what game type u should play in league
 - leveling system (to be added the time limiter of gaining experience)
 - check the current level of certain user
