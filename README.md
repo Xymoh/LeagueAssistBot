@@ -1,3 +1,5 @@
+# Project moved to discord.py environment. Please see [here](https://github.com/Xymoh/OdysseyKaynBot) for the reference.
+
 # LeagueAssistBot
 Bot for assisting League of Legends players !! under development !!
 
